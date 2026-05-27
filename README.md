@@ -78,7 +78,8 @@ https://thybui1903.github.io
 ## 📌 Featured Projects
 
 ### 🏦 Bank Marketing Campaign Analysis & Customer Segmentation
-
+🔗 Repository:  
+https://github.com/thybui1903/Bank-Marketing-Campaign-Analysis-Customer-Segmentation
 - Performed EDA on 45K+ banking records following CRISP-DM methodology
 - Built customer segmentation using K-Means Clustering
 - Developed interactive Power BI dashboards for business insights
