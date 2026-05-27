@@ -115,19 +115,6 @@ https://github.com/tuikhongtenbo/restaurant-services-management-website
 🥈 Second Prize – Provincial Excellent Student Award in Informatics (2022)
 
 🎓 Excellent Academic Scholarship – UIT VNU-HCM
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=thybui1903&show_icons=true&theme=tokyonight"/>
-
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=thybui1903&layout=compact&theme=tokyonight"/>
-</p>
-
 ---
 
 ## ✨ Motto
