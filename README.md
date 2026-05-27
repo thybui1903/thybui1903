@@ -115,6 +115,7 @@ https://github.com/tuikhongtenbo/restaurant-services-management-website
 🥈 Second Prize – Provincial Excellent Student Award in Informatics (2022)
 
 🎓 Excellent Academic Scholarship – UIT VNU-HCM
+
 ---
 
 ## ✨ Motto
