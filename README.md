@@ -16,6 +16,7 @@ Data Scientist | Data Analyst
 ## 👩‍💻 About Me
 
 Data Science student at UIT VNU-HCM with hands-on experience across the full analytical workflow — from EDA and feature engineering to machine learning modeling and business-ready dashboards. Skilled in Python, SQL, and Power BI, with additional experience in backend development using Spring Boot. Interested in applying both data-driven and software engineering approaches to solve real-world business problems in collaborative, impact-focused environments.
+
 📫 Contact: **thybui1903qn@gmail.com**
 
 🌐 Portfolio:  
