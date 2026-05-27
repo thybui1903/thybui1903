@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Thy</h1>
 
 <h3 align="center">
-Data Scientist | Data Analyst 
+Data Scientist | Data Analyst
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Data+Science ;Data+Analytics+%26+Machine+Learning;AI+Enthusiast;Backend+Development+Experience&center=true&width=650&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Data+Science;Data+Analytics+%26+Machine+Learning;AI+Enthusiast;Backend+Development+Experience&center=true&width=650&height=45">
 </p>
 
 <p align="center">
@@ -13,7 +13,6 @@ Data Scientist | Data Analyst
 </p>
 
 ---
-
 ## 👩‍💻 About Me
 
 Data Science student at UIT VNU-HCM with interests in Data Analytics, Machine Learning, and AI-driven solutions. Skilled in Python, SQL, Power BI, and experienced in backend development with Spring Boot.
