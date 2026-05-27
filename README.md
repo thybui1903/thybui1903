@@ -5,7 +5,7 @@ Data Scientist | Data Analyst
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Data Science ;Data+Analytics+%26+Machine+Learning;AI+Enthusiast;Backend+Development+Experience&center=true&width=650&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Data+Science ;Data+Analytics+%26+Machine+Learning;AI+Enthusiast;Backend+Development+Experience&center=true&width=650&height=45">
 </p>
 
 <p align="center">
