@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Thy</h1>
 
 <h3 align="center">
-Data Science Student | Data Analyst | AI Enthusiast
+Data Scientist | Data Analyst 
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Data+Science+Student;Data+Analytics+%26+Machine+Learning;AI+Enthusiast;Backend+Development+Experience&center=true&width=650&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Data Science ;Data+Analytics+%26+Machine+Learning;AI+Enthusiast;Backend+Development+Experience&center=true&width=650&height=45">
 </p>
 
 <p align="center">
