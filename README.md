@@ -1,27 +1,24 @@
 <h1 align="center">Hi 👋, I'm Thy</h1>
-<h3 align="center">Data Analyst | Data Scientist Intern</h3>
+
+<h3 align="center">
+Data Science Student | Data Analyst | AI Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Data+Science+Student;AI+%26+Machine+Learning+Enthusiast;Backend+Developer;Data-Driven+Problem+Solver&center=true&width=550&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Data+Science+Student;Data+Analytics+%26+Machine+Learning;AI+Enthusiast;Backend+Development+Experience&center=true&width=650&height=45">
 </p>
 
 <p align="center">
-  <a href="https://github.com/thybui1903">
-    <img src="https://komarev.com/ghpvc/?username=thybui1903&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=thybui1903&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
 ## 👩‍💻 About Me
 
-🎓 Data Science student at UIT - VNU HCM  
-📊 Passionate about Data Analytics, Machine Learning, and AI applications  
-💡 Interested in solving real-world business problems using data-driven approaches  
-🌱 Currently learning Deep Learning, Spring Boot, and Data Engineering  
-🚀 Seeking internship opportunities in Data Science / Data Analytics / AI  
+Data Science student at UIT VNU-HCM with interests in Data Analytics, Machine Learning, and AI-driven solutions. Skilled in Python, SQL, Power BI, and experienced in backend development with Spring Boot.
 
-📫 Email: **thybui1903qn@gmail.com**
+📫 Contact: **thybui1903qn@gmail.com**
 
 🌐 Portfolio:  
 https://thybui1903.github.io
@@ -30,12 +27,16 @@ https://thybui1903.github.io
 
 ## 🛠 Tech Stack
 
-### Programming Languages
+### 💻 Programming Languages
+
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,cpp,mysql" />
 </p>
 
-### Data Science & Machine Learning
+---
+
+### 🤖 Data Science & AI
+
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
 </p>
@@ -43,22 +44,33 @@ https://thybui1903.github.io
 - Pandas
 - NumPy
 - Scikit-learn
+- Machine Learning
 - Feature Engineering
-- Classification & Clustering
+- Clustering & Classification
+- NLP
 - CRISP-DM Methodology
 
-### Data Visualization & BI
+---
+
+### 📊 Data Visualization & BI
+
 - Power BI
 - DAX
 - Matplotlib
 - Seaborn
 - Excel
 
-### Big Data & Tools
+---
+
+### ⚙️ Backend & Tools
+
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,docker" />
+  <img src="https://skillicons.dev/icons?i=spring,postgres,docker,git,github,linux" />
 </p>
 
+- Spring Boot
+- RESTful APIs
+- JPA / Hibernate
 - Apache Hadoop (HDFS)
 - PySpark
 - Jupyter Notebook
@@ -70,40 +82,48 @@ https://thybui1903.github.io
 ### 🏦 Bank Marketing Campaign Analysis & Customer Segmentation
 
 - Performed EDA on 45K+ banking records following CRISP-DM methodology
-- Applied Random Forest feature importance & Mutual Information
 - Built customer segmentation using K-Means Clustering
-- Developed Power BI dashboards for business insights
-
-🔗 Project Repository:  
-https://github.com/thybui1903
+- Developed interactive Power BI dashboards for business insights
+- Applied feature importance techniques to improve interpretability
 
 ---
 
 ### 🛍 Aspect-Based Sentiment Analysis on Tiki Reviews
 
-- Built Vietnamese sentiment dataset using Human-in-the-Loop annotation
-- Developed semi-automatic labeling pipeline with Gemini API
-- Achieved Macro-F1 of 53.33% on Vietnamese ABSA task
-
-🔗 Project Repository:  
-https://github.com/thybui1903
+- Built Vietnamese sentiment dataset with HITL annotation pipeline
+- Developed semi-automatic labeling system using Gemini API
+- Established reproducible baseline for Vietnamese ABSA tasks
 
 ---
 
-## 🏆 Honors & Awards
+### 🍽 Restaurant Services Management System
+
+🔗 Repository:  
+https://github.com/tuikhongtenbo/restaurant-services-management-website
+
+- Contributed to backend development using Spring Boot
+- Designed RESTful APIs and database interactions
+- Worked with layered architecture and transactional services
+- Collaborated through Git/GitHub workflow in team development
+
+---
+
+## 🏆 Achievements
 
 🥈 Second Prize – Provincial Excellent Student Award in Informatics (2022)
 
-🎓 Excellent Academic Scholarship – UIT VNU-HCM (Semester 2, 2024)
+🎓 Excellent Academic Scholarship – UIT VNU-HCM
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thybui1903&show_icons=true&theme=tokyonight"/>
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thybui1903&layout=compact&theme=tokyonight"/>
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=thybui1903&show_icons=true&theme=tokyonight"/>
+
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=thybui1903&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -116,6 +136,6 @@ https://github.com/thybui1903
 
 ---
 
-## ✨ Fun Fact
+## ✨ Motto
 
-> “Turning data into meaningful insights and real-world impact.”
+> “Using data to create meaningful insights and intelligent solutions.”
