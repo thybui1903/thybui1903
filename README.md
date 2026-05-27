@@ -130,14 +130,6 @@ https://github.com/tuikhongtenbo/restaurant-services-management-website
 
 ---
 
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=thybui1903&theme=tokyonight"/>
-</p>
-
----
-
 ## ✨ Motto
 
 > “Using data to create meaningful insights and intelligent solutions.”
