@@ -21,7 +21,7 @@ Data Science student at UIT VNU-HCM with hands-on experience across the full ana
 
 📫 Gmail: thybui1903qn@gmail.com
 
-🔗 LinkedIn: linkedin.com/in/thybui1903
+🔗 LinkedIn: [linkedin.com/in/thybui1903](https://www.linkedin.com/in/thybui1903/)
 
 ---
 
