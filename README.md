@@ -88,7 +88,8 @@ https://github.com/thybui1903/Bank-Marketing-Campaign-Analysis-Customer-Segmenta
 ---
 
 ### 🛍 Aspect-Based Sentiment Analysis on Tiki Reviews
-
+🔗 Repository:
+https://github.com/thybui1903/Tiki_ABSA
 - Built Vietnamese sentiment dataset with HITL annotation pipeline
 - Developed semi-automatic labeling system using Gemini API
 - Established reproducible baseline for Vietnamese ABSA tasks
